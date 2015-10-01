@@ -18,7 +18,7 @@ class Login_Counter {
 	public function init() {
 		add_action( 'wp_login', array( $this, 'count_user_login' ), 10, 2 );
 		add_filter( 'manage_users_columns', array( $this, 'add_stats_columns' ) );
-		add_action( 'manage_users_custom_column', array( $this, 'fill_stats_columns' ), 10, 3 );
+		add_filter( 'manage_users_custom_column', array( $this, 'fill_stats_columns' ), 10, 3 );
 	}
 
 
@@ -54,7 +54,7 @@ class Login_Counter {
 
 
 	/**
-	 * Fill the stat colum with values.
+	 * Fill the stat column with values.
 	 *
 	 * @param string $empty
 	 * @param string $column_name
