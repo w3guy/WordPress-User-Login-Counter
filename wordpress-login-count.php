@@ -5,7 +5,7 @@ Plugin Name: WordPress User Login Counter
 Plugin URI: http://sitepoint.com
 Description: Count the number of times users log in to their WordPress account.
 Version: 1.0
-Author: collizo4sky
+Author: Agbonghama Collins
 Author URI: http://w3guy.com
 License: GPL2
 */
