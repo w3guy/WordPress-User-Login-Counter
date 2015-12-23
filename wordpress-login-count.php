@@ -30,10 +30,12 @@ class Login_Counter {
 	 */
 	public function count_user_login( $user_login, $user ) {
 
-		if ( ! empty( get_user_meta( $user->ID, 'sp_login_count', true ) ) ) {
+		$count = get_user_meta( $user->ID, 'sp_login_count', true );
+		if ( ! empty( $count ) ) {
 			$login_count = get_user_meta( $user->ID, 'sp_login_count', true );
 			update_user_meta( $user->ID, 'sp_login_count', ( (int) $login_count + 1 ) );
-		} else {
+		}
+		else {
 			update_user_meta( $user->ID, 'sp_login_count', 1 );
 		}
 	}
@@ -69,7 +71,8 @@ class Login_Counter {
 				$login_count = get_user_meta( $user_id, 'sp_login_count', true );
 
 				return "<strong>$login_count</strong>";
-			} else {
+			}
+			else {
 				return __( 'No record found.' );
 			}
 		}

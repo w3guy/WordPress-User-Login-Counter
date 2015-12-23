@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c27154be-1d92-4c12-85ec-f627edd67bda" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress-login-count.php" afterPath="$PROJECT_DIR$/wordpress-login-count.php" />
+    <list default="true" id="a5889378-d896-4b64-aef5-ac157f209725" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\xampp\htdocs\blog\wp-content\plugins\wordpress-login-count\.idea\.name" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="wordpress-login-count.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,36 +26,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../wp-config.php">
+      <file leaf-file-name="evil-example.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../evil-example.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.346153">
-              <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.730769">
+              <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wordpress-login-count.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wordpress-login-count.php">
+      <file leaf-file-name="shortcode-shhh.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../shortcode-shhh/shortcode-shhh.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5141777">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.8076925">
+              <caret line="65" column="24" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="24" />
               <folding>
-                <element signature="e#7#250#0#PHP" expanded="true" />
+                <marker date="1441297039414" expanded="true" signature="3382:3405" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="3937:4922" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="3945:4191" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="3967:4064" placeholder="..." />
+                <marker date="1441297039414" expanded="false" signature="4119:4155" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="4200:4427" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="4209:4302" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="4437:4670" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="4446:4541" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="4680:4909" placeholder="..." />
+                <marker date="1441297039414" expanded="true" signature="4689:4788" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="archive-hello.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../themes/storefront/archive-hello.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.5">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive-book.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../themes/storefront/archive-book.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive-bookes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../themes/twentyfifteen/archive-bookes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.63978493">
+              <caret line="21" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="WordPress Main Plugin File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,9 +96,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../profilepress/views/license/settings-page.php" />
-        <option value="$PROJECT_DIR$/../../../wp-config.php" />
-        <option value="$PROJECT_DIR$/wordpress-login-count.php" />
+        <option value="$PROJECT_DIR$/../profilepress/views/extras/moderation/user-moderation.php" />
+        <option value="$PROJECT_DIR$/../profilepress/classes/class.alter-default-links.php" />
+        <option value="$PROJECT_DIR$/../profilepress/classes/global-shortcodes/global-shortcodes.php" />
+        <option value="$PROJECT_DIR$/../profilepress/classes/profilepress-sql.php" />
+        <option value="$PROJECT_DIR$/../profilepress/classes/class.theme-install.php" />
+        <option value="$PROJECT_DIR$/../ppress/classes/class.theme-install.php" />
+        <option value="$PROJECT_DIR$/../profilepress/register-activation/edit-user-profile/flatui-theme/flatui.php" />
+        <option value="$PROJECT_DIR$/../../../readme.html" />
+        <option value="$PROJECT_DIR$/../../themes/storefront/archive-hello.php" />
+        <option value="$PROJECT_DIR$/../../themes/storefront/archive-test.php" />
+        <option value="$PROJECT_DIR$/../../themes/storefront/archive-book.php" />
+        <option value="$PROJECT_DIR$/../../themes/twentyfifteen/archive-book.php" />
+        <option value="$PROJECT_DIR$/../evil-example.php" />
       </list>
     </option>
   </component>
@@ -74,14 +119,17 @@
   <component name="NamedScopeManager">
     <order />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -104,8 +152,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -152,6 +198,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress-login-count" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twentyfifteen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress-login-count" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storefront" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress-login-count" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -174,48 +282,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress-login-count" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress-login-count" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pp-email-confirmation" />
+              <option name="myItemId" value="shortcode-shhh" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../php" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.terminal.TerminalOptionsConfigurable" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\blog\wp-content\plugins\wordpress-login-count" />
+      <recent name="C:\xampp\htdocs\blog\wp-content\themes\twentyfifteen" />
     </key>
   </component>
   <component name="RunManager">
@@ -241,29 +331,32 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c27154be-1d92-4c12-85ec-f627edd67bda" name="Default" comment="" />
-      <created>1443688666675</created>
+      <changelist id="a5889378-d896-4b64-aef5-ac157f209725" name="Default" comment="" />
+      <created>1444141032884</created>
       <option name="number" value="Default" />
-      <updated>1443688666675</updated>
+      <updated>1444141032884</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2648855" sideWeight="0.5588235" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2351145" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382752" sideWeight="0.5833333" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32352942" sideWeight="0.5030534" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46078432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46166396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2648855" sideWeight="0.44117647" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32352942" sideWeight="0.49694657" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382752" sideWeight="0.41666666" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32463294" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -277,6 +370,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -288,41 +389,474 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../wp-includes/class-http.php">
+    <entry file="file://$PROJECT_DIR$/../profilepress/views/extras/moderation/user-moderation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.58064514">
-          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="205" column="28" selection-start-line="205" selection-start-column="28" selection-end-line="205" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../wp-includes/http.php">
+    <entry file="file://$PROJECT_DIR$/../profilepress/classes/class.alter-default-links.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.516129">
-          <caret line="169" column="9" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/classes/global-shortcodes/global-shortcodes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/views/extras/moderation/user-moderation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="205" column="28" selection-start-line="205" selection-start-column="28" selection-end-line="205" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/classes/class.alter-default-links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="266" column="68" selection-start-line="266" selection-start-column="41" selection-end-line="266" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/classes/alter-password-reset-title-message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/views/extras/moderation/user-moderation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="205" column="28" selection-start-line="205" selection-start-column="28" selection-end-line="205" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-includes/pluggable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.38351256">
+          <caret line="1175" column="9" selection-start-line="1175" selection-start-column="9" selection-end-line="1175" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/classes/global-shortcodes/global-shortcodes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15026833">
+          <caret line="344" column="0" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/classes/class.alter-default-links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/register-activation/logins/smiley-theme/smiley.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.384615">
+          <caret line="168" column="27" selection-start-line="168" selection-start-column="27" selection-end-line="168" selection-end-column="27" />
           <folding>
-            <marker date="1442305095557" expanded="true" signature="-1:-1" placeholder="SELECT domai..." />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444663778917" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../profilepress/views/license/settings-page.php">
+    <entry file="file://$PROJECT_DIR$/../ppress/classes/profilepress-sql.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5483871">
-          <caret line="165" column="34" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.3488372">
+          <caret line="544" column="20" selection-start-line="544" selection-start-column="20" selection-end-line="544" selection-end-column="20" />
+          <folding>
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT optio..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT optio..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT handl..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT handl..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT user_..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT token..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT expir..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT paren..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT type ..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1444763431279" expanded="true" signature="-1:-1" placeholder="SELECT id, d..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ppress/classes/class.plugin-update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63506263">
+          <caret line="868" column="5" selection-start-line="857" selection-start-column="8" selection-end-line="868" selection-end-column="5" />
+          <folding>
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444753475380" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/classes/profilepress-sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-33.307693">
+          <caret line="550" column="93" selection-start-line="550" selection-start-column="75" selection-end-line="550" selection-end-column="93" />
+          <folding>
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT optio..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT optio..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT title..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT handl..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT handl..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT succe..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT user_..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT token..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT expir..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT paren..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT type ..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT struc..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT css F..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, d..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT id, t..." />
+            <marker date="1446291072839" expanded="true" signature="-1:-1" placeholder="SELECT ${$ty..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ppress/classes/class.theme-install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7602862">
+          <caret line="576" column="1" selection-start-line="576" selection-start-column="1" selection-end-line="576" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../wp-config.php">
+    <entry file="file://$PROJECT_DIR$/../profilepress/register-activation/edit-user-profile/flatui-theme/flatui.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7889088">
+          <caret line="92" column="18" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
+          <folding>
+            <marker date="1446316989550" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profilepress/classes/class.theme-install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1538463">
+          <caret line="458" column="0" selection-start-line="458" selection-start-column="0" selection-end-line="458" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/../../../readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33452594">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-includes/post-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3488372">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5313059">
+          <caret line="662" column="0" selection-start-line="662" selection-start-column="0" selection-end-line="662" selection-end-column="0" />
+          <folding>
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT post_..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT post_..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT comme..wp_comments..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT meta_..wp_postmeta..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT comme..wp_comments..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="UPDATE wp_co..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT post_..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT post_..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT post_..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT pinge..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT pinge..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT to_pi..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT ID, p..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT comme..wp_comments..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT meta_..wp_postmeta..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT meta_..wp_postmeta..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT post_..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT post_..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT DATE_..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..wp_posts..." />
+            <marker date="1443811521002" expanded="true" signature="-1:-1" placeholder="SELECT wp_po..wp_posts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shortcode-disabler/shortcode-disabler.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -330,23 +864,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pp-email-confirmation/pp-email-confirmation.php">
+    <entry file="file://$PROJECT_DIR$/../shortcode-shhh/shortcode-shhh.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3327032">
-          <caret line="58" column="15" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="15" />
+        <state vertical-scroll-proportion="-7.8076925">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="24" />
           <folding>
-            <marker date="1438695978910" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..wp_usermeta..." />
+            <marker date="1441297039414" expanded="true" signature="3382:3405" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="3937:4922" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="3945:4191" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="3967:4064" placeholder="..." />
+            <marker date="1441297039414" expanded="false" signature="4119:4155" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="4200:4427" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="4209:4302" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="4437:4670" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="4446:4541" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="4680:4909" placeholder="..." />
+            <marker date="1441297039414" expanded="true" signature="4689:4788" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress-login-count.php">
+    <entry file="file://$PROJECT_DIR$/../../themes/storefront/archive-book.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5141777">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/storefront/archive-hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-includes/load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5313059">
+          <caret line="641" column="9" selection-start-line="641" selection-start-column="9" selection-end-line="641" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5008945">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../evil-example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.730769">
+          <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-includes/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3264151">
+          <caret line="1501" column="35" selection-start-line="1501" selection-start-column="35" selection-end-line="1501" selection-end-column="35" />
           <folding>
-            <element signature="e#7#250#0#PHP" expanded="true" />
+            <element signature="e#6#306#0#PHP" expanded="true" />
+            <marker date="1443811521004" expanded="true" signature="-1:-1" placeholder="SELECT ${$di..." />
+            <marker date="1443811521004" expanded="true" signature="-1:-1" placeholder="SELECT ${$fo..." />
+            <marker date="1443811521004" expanded="true" signature="-1:-1" placeholder="SELECT ${$fo..." />
+            <marker date="1443811521004" expanded="true" signature="-1:-1" placeholder="SELECT wp_co..wp_comments..." />
+            <marker date="1443811521004" expanded="true" signature="-1:-1" placeholder="SELECT post_..wp_postmeta..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/twentyfifteen/archive-bookes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63978493">
+          <caret line="21" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
